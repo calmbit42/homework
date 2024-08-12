@@ -1,0 +1,1 @@
+const myRegEx = /^[^aA]{6,}$/;
